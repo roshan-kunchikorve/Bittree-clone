@@ -1,6 +1,7 @@
 # 🌳 Bittree Clone
 
-A Linktree-style "link in bio" app. Claim a handle, add your links, and get a public page you can share anywhere, built with **Next.js**, **Tailwind CSS** and **MongoDB**.
+A Linktree-inspired “link in bio” app where you claim a unique handle, add all your important links, and share a single public page anywhere. Built with Next.js, Tailwind CSS and MongoDB.
+
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
