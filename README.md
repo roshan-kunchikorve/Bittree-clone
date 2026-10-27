@@ -173,6 +173,7 @@ Creates a new Bittree.
 - [ ] Click analytics for each link
 
 
+
 ## ☁️ Deployment
 
 The easiest way to deploy is [Vercel](https://vercel.com/new):
@@ -182,7 +183,7 @@ The easiest way to deploy is [Vercel](https://vercel.com/new):
 3. If you use MongoDB Atlas, allow Vercel's IPs in **Network Access**.
 4. Deploy.
 
-## ⚠️ Disclaimer
+<!-- ## ⚠️ Disclaimer
 
-This is a learning project inspired by [Linktree](https://linktr.ee). It is not affiliated with or endorsed by Linktree.
+This is a learning project inspired by [Linktree](https://linktr.ee). It is not affiliated with or endorsed by Linktree. -->
 
