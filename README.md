@@ -172,7 +172,7 @@ Creates a new Bittree.
 - [ ] Profile picture upload instead of pasting an image URL
 - [ ] Themes and layout customization
 - [ ] Click analytics for each link
-- [ ] Fill in the Templates, Marketplace, Discover, Pricing and Learn pages in the navbar
+
 
 ## ☁️ Deployment
 
