@@ -1,7 +1,6 @@
 # 🌳 Bittree Clone
 
-A Linktree-inspired “link in bio” app where you claim a unique handle, add all your important links, and share a single public page anywhere. Built with Next.js, Tailwind CSS and MongoDB.
-
+A Linktree-style "link in bio" app. Claim a handle, add your links, and get a public page you can share anywhere, built with **Next.js**, **Tailwind CSS** and **MongoDB**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
@@ -163,7 +162,7 @@ Creates a new Bittree.
 { "success": false, "error": true, "message": "This Bittree already exists!", "result": null }
 ```
 
-<!--  ## 🗺️ Roadmap
+## 🗺️ Roadmap
 
 - [ ] User authentication (the Login and Sign up buttons are UI only for now)
 - [ ] Edit and delete an existing Bittree
@@ -187,8 +186,3 @@ The easiest way to deploy is [Vercel](https://vercel.com/new):
 
 This is a learning project inspired by [Linktree](https://linktr.ee). It is not affiliated with or endorsed by Linktree.
 
-## 👤 Author
-
-**Roshan Kunchikorve**: [@roshan-kunchikorve](https://github.com/roshan-kunchikorve)
-
-If you found this project useful, consider giving it a ⭐! -->
